@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#090909" />
+  <title>فورتِه | منو</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="#" aria-label="فورتِه">FORTE</a>
+    <span class="topbar-note">منوی غذا و نوشیدنی</span>
+  </header>
+
+  <section class="hero">
+    <p class="eyebrow">غذا · نوشیدنی · تجربه</p>
+    <h1>طعم را<br /><span>متفاوت ببین.</span></h1>
+    <div class="hero-bottom">
+      <p>به فورتِه خوش آمدید؛ جایی برای طعم‌های دلچسب، انتخاب‌های تازه و لحظه‌هایی که ارزش ماندن دارند.</p>
+      <span class="scroll-cue">منو را ببینید</span>
+    </div>
+  </section>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-track">
+      <span>FORTE</span> • <span>طعم متفاوت</span> • <span>غذای خوب، حال خوب</span> •
+      <span>FORTE</span> • <span>طعم متفاوت</span> • <span>غذای خوب، حال خوب</span> •
+      <span>FORTE</span> • <span>طعم متفاوت</span> • <span>غذای خوب، حال خوب</span> •
+      <span>FORTE</span> • <span>طعم متفاوت</span> • <span>غذای خوب، حال خوب</span> •
+    </div>
+  </div>
+
+  <main class="menu-wrap">
+    <div class="menu-heading">
+      <div>
+        <h2>منوی ما</h2>
+        <p>انتخابی تازه برای هر سلیقه</p>
+      </div>
+      <span class="item-count" id="itemCount"></span>
+    </div>
+
+    <nav class="filters" id="filters" aria-label="دسته‌بندی غذاها"></nav>
+    <section class="menu-grid" id="menuGrid" aria-live="polite"></section>
+    <p class="state" id="status">در حال بارگذاری منو…</p>
+  </main>
+
+  <footer class="footer">
+    <strong>FORTE</strong>
+    <span>فورتِه · با عشق آماده شده</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

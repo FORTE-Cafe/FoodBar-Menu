@@ -1,7 +1,20 @@
 category,name,description,price,image
-پیش‌غذا,سالاد مخصوص فورتِه,"سبزیجات تازه فصل، پنیر پارمزان و سس مخصوص",280000,https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85
-پیش‌غذا,نان تنوری,"پنیر ریکوتا، سبزی معطر و روغن زیتون",320000,https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?auto=format&fit=crop&w=900&q=85
-غذای اصلی,برگر مخصوص فورتِه,"دو لایه گوشت، پنیر چدار، خیارشور و سس مخصوص",580000,https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85
-غذای اصلی,پاستا با کره و سبزی معطر,"پاستای تازه، کره قهوه‌ای و پنیر پارمزان",490000,https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=85
-مخلفات,سیب‌زمینی برشته,"سیب‌زمینی تنوری با ادویه مخصوص و سس سیر",180000,https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=85
-نوشیدنی,نوشیدنی گازدار مرکبات,"مرکبات تازه، آب گازدار و کمی شیرینی",150000,https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?auto=format&fit=crop&w=900&q=85
+صبحانه,فوگاس تخم مرغ و پنیر,نان فوگاس، پنیر خامه ای، نیمرو، گردو,390000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/223bb00055428a75.jpg
+ساندویچ,ساندویچ پولد بیف,۱۲۰ گرم گوشت گوساله ریش ریش شده، کاهو، سس تارتار، نان چاپاتا، چیبس بیف,798000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/a9438373853c90c3.jpg
+ساندویچ,ساندویچ رست بیف,۱۲۰ گرم گوشت گوساله، سس تار تار، کاهو، نان چاپاتا,798000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/775bdb7e91c4dea2.jpg
+ساندویچ,ساندویچ چیکن باربیکیو,۱۵۰ گرم مرغ، سس باربیکیو، کاهو، سس تارتار، نان چاپاتا,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/db44d55c7b213670.jpg
+ساندویچ,ساندویچ چیکن پستو,۱۵۰ گرم مرغ، سس پستو، پنیر ورقه ای، نان چاپاتا,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/6eece5dc2defaede.jpg
+ساندویچ,ساندویچ شکاری,نان چاپاتا، ۱۵۰ گرم راسته گوساله و مرغ ژولین، قارچ، فلفل دلمه,650000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/ef95da05758083ac.jpg
+ساندویچ,ساندویچ زبان,نان چاپاتا، ۱۵۰ گرم زبان گوساله، قارچ، سس قرمز تند، پیاز، جعفری، خیارشور,635000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/c44f6d9daac76f4e.jpg
+ساندویچ,ساندویچ اسپاناکی,۱۵۰ گرم مرغ، اسفناج، گردو، سس مخصوص، نان چاپاتا,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/1125ec155a4672e0.jpg
+ساندویچ,ساندویچ چیکن بیروت,نان چاپاتا، ۱۵۰ گرم مرغ، بادمجان دودی، ارده، گردو,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/04d6846593cf8ff2.jpg
+ساندویچ,ساندویچ تاپانا,"۱۵۰ گرم فیله مرغ دیپ زیتون و رب انار و گردو گوجه خشک طعمدار شده و سبزی روکولا",640000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/ef9894b129140098.jpg
+ساندویچ,ساندویچ حمص,۱۵۰گرم فیله مرغ ،دیپ حمص،گوجه خشک طعم‌دار شده،سبزی روکولا ،ارده,640000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/959932665a76301e.jpg
+کته,کته گوجه با کباب تابه ای,برنج ایرانی، کباب تابه ای، ماست,720000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/6bd8f8231f9eb2af.jpg
+کته,عدس پلو با مرغ,برنج ایرانی، عدس، کشمش، گردو، سینه مرغ زعفرانی,690000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/ea74b677decf8a8f.jpg
+کته,کته بیف گریوی,۴۰۰ گرم برنج ایرانی، ۱۲۰ گرم راسته گوساله اسلایس شده، سبزیجات بخارپز، سس قارچ,860000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/f637c73a7f819693.jpg
+کته,کته میگو,۴۰۰ گرم برنج ایرانی، ۱۰۰ گرم میگو، همراه با مواد حشو,890000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/60e6b73d97a26b4f.jpg
+کته,کته عدس پلو با میگو,۴۰۰ گرم برنج ایرانی، ۱۰۰ گرم میگو، کشمش، گردو، پیاز داغ,890000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/9fd19b0adcaff68c.jpg
+کته,کته کوبانی,برنج ایرانی، مرغ گریل، سبزیجات بخارپز، سس قارچ,690000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/49314e8d70055302.jpg
+کته,کته کباب با سس زرشک,برنج ایرانی، کباب تابه ای، سس زرشک,770000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/e8446a610a6dd8b8.jpg
+کته,کته تیکا (هندی تند),۴۰۰ گرم برنج ایرانی، ۱۵۰ گرم ران مرغ بدون استخوان با ادویه کاری و هندی,690000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/d72f8f7b4e5a405e.jpg

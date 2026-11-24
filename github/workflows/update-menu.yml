@@ -1,0 +1,48 @@
+name: Update menu
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour (UTC)
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-menu
+  cancel-in-progress: false
+
+env:
+  MENU_URL: "https://snappfood.ir/restaurant/menu/%D9%81%D9%88%D8%AF_%D8%A8%D8%A7%D8%B1_%D9%81%D9%88%D8%B1%D8%AA%D9%87-r-6d5qqn/"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright
+        run: pip install playwright
+
+      - name: Make sure a browser is available
+        run: which google-chrome || playwright install --with-deps chromium
+
+      - name: Scrape Snappfood
+        run: python scraper/snappfood_scraper.py "$MENU_URL" -o menu.csv --full-size-images --min-items 5
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain menu.csv)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "menu-bot"
+          git config user.email "menu-bot@users.noreply.github.com"
+          git add menu.csv
+          git commit -m "Update menu ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push

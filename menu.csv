@@ -1,9 +1,4 @@
 ﻿category,name,description,price,image
-صبحانه,اسکرامبل اسفناج,نان چاپاتا، تخم مرغ هم زده با اسفناج، گردو، پنیر، قارچ,420000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/b456173548c801b6.jpg
-صبحانه,فوگاس تخم مرغ و پنیر,نان فوگاس، پنیر خامه ای، نیمرو، گردو,390000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/223bb00055428a75.jpg
-صبحانه,لقمه پنیر گردو سبزی,نان چاپاتا، پنیر، گردو، سبزی,270000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/e1d717c6cce28181.jpg
-صبحانه,نان پنیر خیار,نان چاپاتا، پنیر لبنه، خیار، گوجه، کاهو,270000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/a83a7c8cb6ac1af0.jpg
-صبحانه,انگلیش مافین,نان دست ساز، سس مخصوص، ۳ اسلایس بیکن، روکولا، پنیر پارمسان، یک عدد تخم مرغ پوچد,420000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/8306b6178a1cad2c.jpg
 ساندویچ,ساندویچ پولد بیف,۱۲۰ گرم گوشت گوساله ریش ریش شده، کاهو، سس تارتار، نان چاپاتا، چیبس بیف,798000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/a9438373853c90c3.jpg
 ساندویچ,ساندویچ رست بیف,۱۲۰ گرم گوشت گوساله، سس تار تار، کاهو، نان چاپاتا,798000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/775bdb7e91c4dea2.jpg
 ساندویچ,ساندویچ چیکن باربیکیو,۱۵۰ گرم مرغ، سس باربیکیو، کاهو، سس تارتار، نان چاپاتا,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/db44d55c7b213670.jpg
@@ -12,9 +7,24 @@
 ساندویچ,ساندویچ زبان,نان چاپاتا، ۱۵۰ گرم زبان گوساله، قارچ، سس قرمز تند، پیاز، جعفری، خیارشور,635000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/c44f6d9daac76f4e.jpg
 ساندویچ,ساندویچ اسپاناکی,۱۵۰ گرم مرغ، اسفناج، گردو، سس مخصوص، نان چاپاتا,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/1125ec155a4672e0.jpg
 ساندویچ,ساندویچ چیکن بیروت,نان چاپاتا، ۱۵۰ گرم مرغ، بادمجان دودی، ارده، گردو,580000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/04d6846593cf8ff2.jpg
+ساندویچ,هات رول,نان دست ساز، یک عدد سوسیس هات داگ، چیبس کرانچ، سس قارچ، پنیر پیتزا، نان مخصوص دست ساز,710000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/9ce767262afbd6f3.jpg
 ساندویچ,ساندویچ تاپانا,"۱۵۰ گرم فیله مرغ دیپ زیتون و رب انار و گردو گوجه خشک طعمدار شده و سبزی روکولا",640000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/ef9894b129140098.jpg
-رژیمی,اتمیل,شیر ساده، شیربادام، عسل، ماست، جودوسرپرک، موز، مغزیجات,400000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/dc823602f563e1bb.jpg
+ساندویچ,ساندویچ حمص,۱۵۰گرم فیله مرغ ،دیپ حمص،گوجه خشک طعم‌دار شده،سبزی روکولا ،ارده,640000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/959932665a76301e.jpg
+کته,کته بیف گریوی,۴۰۰ گرم برنج ایرانی، ۱۲۰ گرم راسته گوساله اسلایس شده، سبزیجات بخارپز، سس قارچ,860000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/f637c73a7f819693.jpg
+کته,زرین پلو,۴٠٠ گرم برنج ایرانی،150 گرم گوشت چرخ کرده،هویج،ذرت،لوبیا سبز,720000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/f4e62aa94e0b4e76.jpg
+پیتزا,پیتزا پپرونی ایتالیایی,خمیر نیویورکی، پپرونی ۸۰٪، سس هات هانی، پنیر موزارلا,1120000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/20b63589733aa0ec.jpg
+پیتزا,پیتزا مرغ آلفردو ٣٢ سانتي متر,خمیر نیویورکی، سس آلفردو، ۱۴۰ گرم فیله مرغ، قارچ ، زیتون، پنیر موزارلا,1200000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/c7e31fbc6981e88e.jpg
+پیتزا,نان سیر 32 سانتيمتري,خمیر پیتزا، سس سیر، پنیر پیتزا,560000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/f382d97d5a7f4181.jpg
+پیتزا,پیتزا پولدبیف ٣٢ سانتي متر,خمیر نیویورکی، ۱۲۰گرم گوشت گوساله، سس آلفردو، قارچ، زیتون، چیبس کرانچ، پنیر موزارلا,1380000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/3ea3789f5a5935d9.jpg
+پیتزا,پیتزا سیر و استیک,خمیر پیتزا، ۱۲۰ گرم گوشت گوساله استیکی، سس پومودور، پنیر پیتزا، قارچ، فلفل دلمه ای,1378000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/916b320abcb23b53.jpg
+پیتزا,پیتزا میت بال ایتالیایی,خمیر پیتزا ایتالیایی،١٣٠ گرم گوشت قلقلي گوساله، سس الفردو، پنیر پیتزا،ديپ چدار،سيب زميني ورقه اي،گوجه خشك,1378000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/cf5b1099a1ae4517.jpg
 رژیمی,پنکیک,پنکیک، میوه، مغزیجات، يك شات شيره افرا، ميپر,400000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/49b1c088844ab78c.jpg
+سالاد,سالاد سزار,کاهو، نان مخصوص سالاد، زیتون سیاه، گوجه گیلاسی، سس سزار، ۱۵۰ گرم مرغ گریل,630000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/6404e3cf6bfd4648.jpg
+سالاد,سالاد استیک,کاهو، گوشت گوساله ژولین شده، سیب، کیپرز، گوجه گیلاسی، پنیر پارمسان، ریحان ایتالیایی,810000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/770a2a0dff9fc9da.jpg
+سالاد,سالاد آسیایی,کاهو، نودل برنجی طعم دار شده، ۱۲۰ گرم مرغ گریل، کلم سفید، کلم قرمز، هویج,730000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/dbaba015e79171f3.jpg
+سالاد,سالاد بیروت چیز,کاهو، مرغ گریل، سبزی مدیترانه ای، چهار مدل پنیر،مغزی جات، گوجه گیلاسی، سس اووکادو,730000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/8a6fd4b7d765a260.jpg
+سالاد,سالاد قیصی,کاهو، انواع سبزی های مدیترانه ای، میوه ی فصل، قیصی، مغزیجات,550000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/9168883cf355ec2d.jpg
+سالاد,سوپ اسفناج,اسفناج،جو،مرغ،هویج،خامه,510000,https://cdn.snappfood.ir/pwa/assets/placeholder-images/horizontal_logotype-base.png
 نوشیدنی,آب گاز دار اکوفینا,500 میلی لیتر,82500,https://cdn.snappfood.ir/cdn/49/40/54/product_image/vendor/db3916d8ad52f300.jpg
 نوشیدنی,نوشابه قوطی,۱۵۰ میلی لیتر,65000,https://cdn.snappfood.ir/cdn/49/40/54/product_image/zoodfood/6ae0ae0715449710888689.jpeg
 نوشیدنی,پپسی قوطی,٣٣٠ میلی لیتر,89500,https://cdn.snappfood.ir/cdn/49/40/54/product_image/zoodfood/6ae1b4424f62e649061000.jpeg
